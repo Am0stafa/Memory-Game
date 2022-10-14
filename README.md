@@ -4,4 +4,4 @@ Simple memory game built in React.
 
 
 Check out -
-<a href="https://vineet-memory-game.netlify.app/">Game link/</a>
+<a href="https://vineet-memory-game.netlify.app/">Game link</a>
